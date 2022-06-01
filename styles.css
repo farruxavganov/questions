@@ -97,3 +97,9 @@ main {
 .show .question__minus {
     display: block;
 }
+
+@media (max-width: 586px) {
+    .questions-wrapper {
+        width: 80%;
+    }
+}
